@@ -1,5 +1,5 @@
 # node-keylogger
-Simple node.js linux only(for now) keylogger using events.
+Simple node.js keylogger using events.
 
 Install
 -------
